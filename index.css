@@ -240,7 +240,7 @@ display: none;
     background:url("https://www.apple.com/in/iphone-16/images/overview/welcome/hero_endframe__dtznvlokjeeu_medium_2x.png"), linear-gradient(to bottom, #212A6F, #A8B6E4) ;
     height: 600px; 
     width: 100%; 
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat; 
     background-position: center;
     display: flex;
